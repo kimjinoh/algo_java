@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class findKim {
+public class lv1_findKim {
 	public String solution(String[] seoul) {
 		String answer = "";
 		for (int i = 0; i < seoul.length; i++)
@@ -14,7 +14,7 @@ public class findKim {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String[] seoul = { "Jane", "Kim" };
-		findKim sol = new findKim();
+		lv1_findKim sol = new lv1_findKim();
 		System.out.println(sol.solution(seoul));
 	}
 
