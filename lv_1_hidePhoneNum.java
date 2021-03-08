@@ -13,5 +13,4 @@ public class lv_1_hidePhoneNum {
 		lv_1_hidePhoneNum sol = new lv_1_hidePhoneNum();
 		System.out.println(sol.solution(s));
 	}
-
 }
