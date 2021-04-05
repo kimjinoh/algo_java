@@ -58,7 +58,6 @@ public class lv1_newID {
 		String new_id = "...abcdefghijklmn....p";
 		lv1_newID sol = new lv1_newID();
 		System.out.println(sol.solution(new_id));
-
 	}
 
 }
