@@ -1,7 +1,7 @@
 
 public class lv1_reverseTernaryNum {
 	public int solution(int n) {
-        int answer = 0;
+        //int answer = 0;
         String s = "";
         while(true) {
         	int div = n/3;
